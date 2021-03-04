@@ -1,0 +1,4 @@
+# Quarta-Feira
+
+Hora Inicio: 8hr
+Hora Termino: 11hr
